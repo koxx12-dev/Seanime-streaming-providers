@@ -45,3 +45,9 @@ declare type Settings = {
     episodeServers: string[]
     supportsDub: boolean
 }
+
+declare type SearchOptions = {
+    query: string
+    dub: boolean
+    year?: number
+}
