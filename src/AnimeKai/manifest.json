@@ -2,7 +2,7 @@
   "id": "animekai-sub-dub-eng",
   "name": "AnimeKai",
   "description": "AnimeKai is an online streaming provider for subbed/dubbes animes in English",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-streaming-providers/refs/heads/main/src/AnimeKai/manifest.json",
   "version": "1.0.0",
   "author": "kRYstall9",
   "type": "onlinestream-provider",
