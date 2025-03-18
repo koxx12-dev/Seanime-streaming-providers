@@ -10,7 +10,7 @@ class Provider {
     };
   }
 
-  async search(query: any, dub: boolean): Promise<SearchResult[]> {
+  async search(query:SearchOptions): Promise<SearchResult[]> {
     let normalizedQuery = this.normalizeQuery(query["query"]);
     console.log("Normalized Query: " + normalizedQuery);
 
