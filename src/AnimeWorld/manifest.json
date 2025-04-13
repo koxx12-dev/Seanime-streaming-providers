@@ -2,7 +2,7 @@
   "id": "animeworld",
   "name": "AnimeWorld",
   "description": "Extension for AnimeWorld, an online streaming provider for subbed/dubbes animes in Italian",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-streaming-providers/refs/heads/main/src/AnimeWorld/manifest.json",
   "version": "1.0.0",
   "author": "kRYstall9",
   "type": "onlinestream-provider",
