@@ -2,7 +2,7 @@
   "id": "animesatrurn",
   "name": "AnimeSaturn",
   "description": "AnimeSaturn is an online streaming provider for subbed/dubbed animes in Italian",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-streaming-providers/refs/heads/main/src/AnimeSaturn/manifest.json",
   "version": "1.0.0",
   "author": "kRYstall9",
   "type": "onlinestream-provider",
