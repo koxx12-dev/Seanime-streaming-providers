@@ -2,7 +2,7 @@
   "id": "gojowtf",
   "name": "GojoWtf",
   "description": "GojoWtf is an online streaming provider for subbed and dubbed anime in English. It supports two providers: Strix and Pahe, both of which offer subbed and dubbed content",
-  "manifestURI": "",
+  "manifestURI": "https://raw.githubusercontent.com/kRYstall9/Seanime-streaming-providers/refs/heads/main/src/GojoWtf/manifest.json",
   "version": "1.0.0",
   "author": "kRYstall9",
   "type": "onlinestream-provider",
