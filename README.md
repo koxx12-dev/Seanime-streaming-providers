@@ -18,4 +18,3 @@ https://github.com/user-attachments/assets/becca02f-1dcc-4009-a2ac-e1fa727658b4
 
 ## ❤️ Credits
 - [<strong>Seanime App</strong>](https://github.com/5rahim/seanime) made by [<strong>5rahim</strong>](https://github.com/5rahim)
-- [<strong>Sources</strong>](https://github.com/50n50/sources) made by [<strong>50n50</strong>](https://github.com/50n50)
